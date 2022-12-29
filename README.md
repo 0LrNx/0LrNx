@@ -4,7 +4,7 @@
 ## 👨‍🎓 About me!
 
 - 📚 I live and study in France
-- 🥅 2022 Goals: learn javascript, c, java
+- 🥅 2023 Goals: learn javascript, c, java
 - 🖥 I'm using Visual Studio Code and Eclipse
 
 
