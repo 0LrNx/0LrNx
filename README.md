@@ -8,7 +8,7 @@
   <strong>Protect, Code, Having fun!</strong>
 </p>
 
-<br>
+<hr>
 
 
 
