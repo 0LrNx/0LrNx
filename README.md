@@ -12,8 +12,6 @@
   <img src="https://github.com/votrepseudo/votrepseudo/blob/master/cybersecurity.gif" alt="Cybersecurity GIF" width="420" height="330">
 </div>
 
-# Hi, I'm FI$$! 👋
-
 🔒 Safeguarding the digital world, one line of code at a time!
 
 💻 **Things I Love**
