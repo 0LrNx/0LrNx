@@ -9,7 +9,7 @@
 </p>
 
 <p>Wait for the rest.../</p>
-<p>Work on landing page</p>
+<p>Work on landing page but nothing appear</p>
 
 
 
